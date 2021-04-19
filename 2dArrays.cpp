@@ -34,6 +34,5 @@ int main()
 	}
 	cout << flag;
 	cout<<"return next time.";
-	cout<<"this is the end of the first patch."<<endl<<"we will be releasing the second patch soon.";
 	return 0;
 }
